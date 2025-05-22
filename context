@@ -1,0 +1,23 @@
+Folder already created.  (goodnessobaje@Goodnesss-MacBook-Air ace-fi % )
+a mobile app, react native. use expo framework
+
+it's a crypto exchange with ai integration for users
+
+use the sf pro font.
+
+flow is
+
+onboarding screen (just one) with get started or login button.
+
+the sign up page should look like a chat interface, the ai asks user, 
+
+what is your name?
+then, what is your bank name (bring up modal for user to select bank)
+then, Please enter account number
+we will be using gemini ai or gpt
+
+after we validate the user account number, we submit it to db and create user account.
+we are using supabase for our db
+put this brief in a file, call it context file.
+
+understood?
